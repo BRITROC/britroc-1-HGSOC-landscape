@@ -6,6 +6,7 @@ Top level repository for bioinformatic and analysis pipelines used the publicati
 Clone this repository and submodules
 
 ```
-git clone https://github.com/BRITROC/britroc-HGSOC-landscape.git
+git clone https://github.com/BRITROC/britroc-HGSOC-landscape.git --recursive
+cd britroc-HGSOC-landscape/
 git submodule update --recursive --remote
 ```
