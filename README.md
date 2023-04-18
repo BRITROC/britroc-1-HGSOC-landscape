@@ -11,7 +11,7 @@ This repository is acts a top-level directory for the NGS data, pre-processing p
 
 |*Analysis*|*Details*|
 |----------|---------|
-|[swgs-absolutecn](https://github.com/Phil9S/swgs-absolutecn)|copy number fitting pipeline used to generated absolute copy number profiles from BAM files|
+|[swgs-absolutecn](https://github.com/Phil9S/swgs-absolutecn/tree/publication)|copy number fitting pipeline used to generated absolute copy number profiles from BAM files|
 |[britroc-cn-analysis](https://github.com/BRITROC/britroc-cn-analysis)|code and scripts used to generate copy number alteration analysis markdowns and figures|
 |[britroc-sig-analysis]()|code and scripts used to run differential signature abundance analysis markdowns and figures|
 
