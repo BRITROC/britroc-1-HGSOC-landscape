@@ -1,5 +1,5 @@
 # britroc-HGSOC-landscape
-Top level repository for bioinformatic and analysis pipelines used the publication ["The copy-number landscape of recurrent ovarian high grade serous carcinoma"]()  Smith & Bradley et al. 2023.
+Top level repository for bioinformatic and analysis pipelines used the publication ["The copy-number landscape of recurrent ovarian high grade serous carcinoma"] Smith & Bradley et al. 2023.
 
 ## Summary
 
@@ -18,10 +18,10 @@ This repository is acts a top-level directory for the NGS data, pre-processing p
 ## Data repositories
 |*Data*|*Details*|
 |------|---------|
-|[sWGS data]()|an EGA data repository containing hg19 aligned BAM files for the samples with available sWGS sequencing|                  
-|[TAM-Seq data]()|an EGA data repository containing FASTQ files for the samples with available TAM-Seq SNV sequencing data|
+|[sWGS data]|an EGA data repository containing hg19 aligned BAM files for the samples with available sWGS sequencing|                  
+|[TAM-Seq data]|an EGA data repository containing FASTQ files for the samples with available TAM-Seq SNV sequencing data|
 |[pre-processed sWGS data](https://zenodo.org/record/7573784#.ZD6uPXbMJPY)|a zenodo repositiory containing pre-processed absolute copy number profiles from sWGS BAM files|
-|[pre-processed TAM-Seq data]()|pre-processed SNV data from TAM-Seq sequencing data|
+|[pre-processed TAM-Seq data]|pre-processed SNV data from TAM-Seq sequencing data|
 
 ## Issues
 
