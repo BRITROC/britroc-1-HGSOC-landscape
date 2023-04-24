@@ -39,16 +39,4 @@ This repository is acts a top-level directory for the NGS data, pre-processing p
 ## License
 A vast majority of the code used in this publication is open-source and covered by GPL-3.0 license.
  
-The copy number signature methodology is not and is covered by a GAP Available Source License v1.0 (see license file) as part of a pending patent application. The following text applies to the aforementioned copy number signature methodology;
- 
- ```
-The contents of this repository are copyright (c) 2022, University of Cambridge and Spanish National Cancer Research Centre (CNIO).
-
-The contents of this repository are published and distributed under the GAP Available Source License v1.0 (ASL).
-
-The contents of this repository are distributed in the hope that it will be useful for non-commercial academic research, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the ASL for more details.
-
-The methods implemented in the code are the subject of pending patent application GB 2114203.9.
-
-Any commercial use of this code is prohibited.
-```
+The [copy number signature methodology](https://github.com/markowetzlab/CINSignatureQuantification) is covered by a GAP Available Source License v1.0 ([see here](https://github.com/markowetzlab/CINSignatureQuantification/blob/main/LICENSE)) as part of a pending patent application. This license limitation applys to the copy number signature methodology used in the [copy number analysis pipeline](https://github.com/BRITROC/britroc-cn-analysis).
