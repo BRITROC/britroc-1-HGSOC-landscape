@@ -1,5 +1,5 @@
 # britroc-1-HGSOC-landscape
-Top level repository for bioinformatic and analysis pipelines used the publication ["The copy-number landscape of recurrent ovarian high grade serous carcinoma"] Smith & Bradley et al. 2023.
+Top level repository for bioinformatic and analysis pipelines used the publication ["The copy-number landscape of recurrent ovarian high grade serous carcinoma"](https://www.medrxiv.org/content/10.1101/2022.10.21.22280992v1) Smith & Bradley et al. 2023.
 
 ## Summary
 
@@ -12,7 +12,7 @@ This repository is acts a top-level directory for the NGS data, pre-processing p
 |*Analysis*|*Details*|
 |----------|---------|
 |[swgs-absolutecn](https://github.com/Phil9S/swgs-absolutecn/tree/publication)|copy number fitting pipeline used to generated absolute copy number profiles from BAM files|
-|[britroc-cn-analysis](https://github.com/BRITROC/britroc-cn-analysis)|code and scripts used to generate copy number alteration analysis markdowns and figures|
+|[britroc-cn-analysis](https://github.com/BRITROC/britroc-cn-analysis)|code and scripts used to generate copy number alteration & signature analysis markdowns and figures|
 |[britroc-sig-analysis](https://github.com/BRITROC/britroc-sig-analysis)|code and scripts used to run differential signature abundance analysis markdowns and figures|
 
 ## Data repositories
@@ -25,7 +25,9 @@ This repository is acts a top-level directory for the NGS data, pre-processing p
 
 ## Issues
 
-- Data access - apply via the EGA data access commitee.
+- Data access
+  - Raw sequencing files - apply via the EGA data access commitee.
+  - Pre-processed data - donwload directly from open-access repositories.
 - Repository-specific issues - please open an issue on the relevant github repository.
 - General questions about running the pipelines - open an issue on this repository.
 - Queries directly about the paper - email the corresponding author listed on the publication.
