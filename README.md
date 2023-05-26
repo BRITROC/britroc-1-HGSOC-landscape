@@ -38,6 +38,9 @@ This repository is acts a top-level directory for the NGS data, pre-processing p
 - [@TBradley27](https://github.com/TBradley27)
 - [@lm687](https://github.com/lm687)
 
+## Citation
+This repository is citable using the DOI [10.5281/zenodo.7942206](https://doi.org/10.5281/zenodo.7942206).
+
 ## License
 A vast majority of the code used in this publication is open-source and covered by GPL-3.0 license.
  
