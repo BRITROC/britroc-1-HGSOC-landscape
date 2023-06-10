@@ -16,6 +16,12 @@ This repository is acts a top-level directory for the NGS data, pre-processing p
 |[britroc-1-sig-analysis](https://github.com/BRITROC/britroc-1-sig-analysis)|code and scripts used to run differential signature abundance analysis markdowns and figures|
 |[britroc-1-snv-analysis](https://github.com/BRITROC/BriTROC-1_short_variant_discovery)|code and scripts used to generate the SNV calls and perform analysis|
 
+## Database repositories
+
+|*Database Repository*|*Details*|
+|----------|---------|
+|[BriTROC-1 DB](https://github.com/BRITROC/BriTROC-1_DB)|A repository for building the BriTROC-1 database of BriTROC-1 metadata elements from source code and corresponding data|
+
 ## Data repositories
 |*Data*|*Details*|
 |------|---------|
