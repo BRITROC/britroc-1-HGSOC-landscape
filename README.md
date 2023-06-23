@@ -30,6 +30,20 @@ This repository is acts a top-level directory for the NGS data, pre-processing p
 |[pre-processed sWGS data](https://zenodo.org/record/7573784#.ZD6uPXbMJPY)|a zenodo repositiory containing pre-processed absolute copy number profiles from sWGS BAM files|
 |[pre-processed TAM-Seq data]|pre-processed SNV data from TAM-Seq sequencing data|
 
+## Installation and dependecies
+### Software dependencies
+Software versions and dependencies are installed independently for each analysis or pipeline using conda.
+These pipelines have been tested on cent0S linux 7.8 & RHEL 7 linux OS
+
+Each repositiory provides its own installation instructions on installation of required software environments, additional software package and data requirements and implementations. See the README.md documents for each specific analysis for more details.
+
+### Runtime
+Required runtime for replicating the results of this publication are approximately 4 hours on a High performance computing server (6-8 hours on a high-spec laptop).
+Full runtime from raw data will vary considerably on implementation, available hardware, and data processing during non-scripted analyical steps.
+
+### Demo
+No demo sofware or data is provided for the pipelines associated with this publication. All data is freely available (as pre-processed outputs) or upon request via EGA. 
+
 ## Issues
 
 - Data access
