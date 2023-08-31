@@ -23,8 +23,8 @@ This repository is acts a top-level directory for the NGS data, pre-processing p
 |------|---------|
 |[sWGS data](https://ega-archive.org/datasets/EGAD00001011049)|an EGA data repository containing hg19 aligned BAM files for the samples with available sWGS sequencing|                  
 |[TAM-Seq data](https://ega-archive.org/datasets/EGAD00001011058)|an EGA data repository containing FASTQ files for the samples with available TAM-Seq SNV sequencing data|
-|[pre-processed sWGS data](https://zenodo.org/record/7573784#.ZD6uPXbMJPY)|a zenodo repositiory containing pre-processed absolute copy number profiles from sWGS BAM files|
-|[pre-processed TAM-Seq data](https://zenodo.org/record/7573784#.ZD6uPXbMJPY)|pre-processed SNV data from TAM-Seq sequencing data|
+|[pre-processed sWGS data](https://zenodo.org/record/8304868)|a zenodo repositiory containing pre-processed absolute copy number profiles from sWGS BAM files|
+|[pre-processed TAM-Seq data](https://zenodo.org/record/8304868)|pre-processed SNV data from TAM-Seq sequencing data|
 
 ## Installation and dependecies
 ### Software dependencies
